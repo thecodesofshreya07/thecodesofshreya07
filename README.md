@@ -70,7 +70,7 @@ I care about clean architecture, readable code, and shipping things that work. I
     <td width="50%" valign="top">
       <h3>🗺️ Itihas</h3>
       <p><strong>Interactive historical exploration platform</strong></p>
-      <p>Navigate ancient timelines through an interactive map. Geospatial routing across 100+ historical locations worldwide with dynamic timeline visualization.</p>
+      <p>Navigate ancient timelines through an interactive map. Geospatial routing across historical locations worldwide with dynamic timeline visualization.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" />
@@ -100,25 +100,6 @@ I care about clean architecture, readable code, and shipping things that work. I
     </td>
   </tr>
 </table>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=thecodesofshreya07&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodesofshreya07&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thecodesofshreya07&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ### Highlights
