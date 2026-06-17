@@ -105,7 +105,7 @@ I care about clean architecture, readable code, and shipping things that work. I
 ### Highlights
 
 - 🏆 &nbsp;3rd Place — MOSAIC National UI/UX Hackathon (RAIT D.Y. Patil, 50+ teams)
-- 🎓 &nbsp;CGPA 9.59 | MHT-CET 98.713 percentile | JEE Mains 93.17 percentile
+- 🎓 &nbsp;CGPA 9.5 | MHT-CET 98.713 percentile | JEE Mains 93.17 percentile
 - 🏛️ &nbsp;National Committee Member — Computer Society of India (CSI)
 - 📬 &nbsp;Open to SDE internships and remote freelance projects
 
